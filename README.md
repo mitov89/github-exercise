@@ -7,5 +7,4 @@ Making some changes here!
 Conflict will appear!!!asasasasasa
 Conflict will appear!!! maybe now
 
-cONFLICT RESOLVEDDDD
-asasasas
+We resolved the conflict
